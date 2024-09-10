@@ -4,7 +4,6 @@
 
 Welcome to BetterSol, an app that allows you to launch tokens and manage wallets using a straightforward UI. Scripts/Bots are useful, but when you run into problems it may be difficult to resolve them yourself if you are not a developer. BetterSol seeks to alleviate this problem by bringing you all the same functionality in the form of a clean UI.
 
-
 ## 🗄️Features
 
 - Complete BetterSol repository to run locally
@@ -28,6 +27,9 @@ Welcome to BetterSol, an app that allows you to launch tokens and manage wallets
 
 ## Join the Discord 
 - View vouches, talk with other users, and buy here: https://discord.com/NMxm9rhdYR
+
+## PSA
+I have seen other repositories copying my work and publishing it as their own. I am the only developer for BetterSol, and all others are copies. Join the Discord and you can see history dating back months, as well my frequent updates.
 
 ## Gallery
 ![TokenCard](https://github.com/user-attachments/assets/3c034ab6-ed89-465b-886f-949290753073)
